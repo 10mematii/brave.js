@@ -1,26 +1,27 @@
 {
-  "name": "sefa.js",
+  "name": "morph.js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "morph.js": "^1.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10mematii/sefa.js.git"
+    "url": "git+https://github.com/10mematii/morph.js.git"
   },
   "keywords": [
-    "sefajs"
+    "morphjs",
+    "mjs"
   ],
   "author": "Memati",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/10mematii/sefa.js/issues"
+    "url": "https://github.com/10mematii/morph.js/issues"
   },
-  "homepage": "https://github.com/10mematii/sefa.js#readme",
-  "dependencies": {
-    "sefa.js": "^1.0.0"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/10mematii/morph.js#readme"
 }
