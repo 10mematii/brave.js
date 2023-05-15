@@ -1,1 +1,26 @@
-
+{
+  "name": "sefa.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10mematii/sefa.js.git"
+  },
+  "keywords": [
+    "sefajs"
+  ],
+  "author": "Memati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10mematii/sefa.js/issues"
+  },
+  "homepage": "https://github.com/10mematii/sefa.js#readme",
+  "dependencies": {
+    "sefa.js": "^1.0.0"
+  },
+  "devDependencies": {}
+}
